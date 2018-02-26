@@ -1,0 +1,307 @@
+<!--{template common/header}-->
+<div class="wp">
+	<!--[diy=diy1]--><div id="diy1" class="area"></div><!--[/diy]-->
+    <!--[diy=slides]--><div id="slides" class="area"><div id="framesYihkr" class="frame move-span cl frame-1"><div id="framesYihkr_left" class="column frame-1-c"><div id="framesYihkr_left_temp" class="move-span temp"></div><!--{block/18}--></div></div></div><!--[/diy]-->
+    <div class="deanjieshaobox">
+    	<div class="w1180">
+        	<div class="deanjsbox">
+            	<ul>
+                	<!--[diy=deanjsbox]--><div id="deanjsbox" class="area"><div id="frameeF276V" class="frame move-span cl frame-1"><div id="frameeF276V_left" class="column frame-1-c"><div id="frameeF276V_left_temp" class="move-span temp"></div><!--{block/19}--></div></div></div><!--[/diy]-->
+                    <div class="clear"></div>
+                </ul>
+            </div>
+        </div>
+    </div>
+    <!--分类-->
+    <div class="deansortbox">
+    	<div class="w1180">
+        	<div class="deansbghtxt">热门资源分类</div>
+            <div class="deansbghmain">
+            	<ul>
+                	<!--[diy=deansbghmain]--><div id="deansbghmain" class="area"><div id="framevU4UFm" class="frame move-span cl frame-1"><div id="framevU4UFm_left" class="column frame-1-c"><div id="framevU4UFm_left_temp" class="move-span temp"></div><!--{block/20}--></div></div></div><!--[/diy]-->
+                	
+                    <div class="clear"></div>
+                </ul>
+            </div>
+            <div class="deanhot_words">
+            	<!--[diy=deanhot_words]--><div id="deanhot_words" class="area"></div><!--[/diy]-->
+                
+				<div class="clear"></div>
+            </div>
+        </div>
+    </div>
+    <!--模型下载-->
+    <div class="deansucai">
+    	<div class="w1180">
+        	<div class="deanpubtop">
+            	<span><a href="#" target="_blank" title="优质素材资源下载">优质素材资源下载</a></span>
+                <ul>
+                	<li class="cur">CG/UI设计</li>
+                    <li>C4D模型</li>
+                    <li>平面/网页设计</li>
+                    <li>三维动画</li>
+                    <li>3D模型</li>
+                    <div class="clear"></div>
+                </ul>
+                <div class="clear"></div>
+            </div>
+        	<div class="deansucaibox">
+            	<ul>
+                	<li style="display:block;">
+                    	<div class="deanscfl">
+                        	<dl>
+                                <!--[diy=deanscflr]--><div id="deanscflr" class="area"><div id="framedHP4f4" class="frame move-span cl frame-1"><div id="framedHP4f4_left" class="column frame-1-c"><div id="framedHP4f4_left_temp" class="move-span temp"></div><!--{block/22}--></div></div></div><!--[/diy]-->
+                                <div class="clear"></div>
+                            </dl>
+                        </div>
+                    </li>
+                    <li>
+                    	<div class="deanscfl">
+                        	<dl>
+                            	<!--[diy=deanscflx]--><div id="deanscflx" class="area"><div id="frameP69Pu0" class="frame move-span cl frame-1"><div id="frameP69Pu0_left" class="column frame-1-c"><div id="frameP69Pu0_left_temp" class="move-span temp"></div><!--{block/23}--></div></div></div><!--[/diy]-->
+                            	
+                                <div class="clear"></div>
+                            </dl>
+                        </div>
+                    </li>
+                    <li>
+                    	<div class="deanscfl">
+                        	<dl>
+                            	<!--[diy=deanscflx1]--><div id="deanscflx1" class="area"><div id="frameNKovLL" class="frame move-span cl frame-1"><div id="frameNKovLL_left" class="column frame-1-c"><div id="frameNKovLL_left_temp" class="move-span temp"></div><!--{block/24}--></div></div></div><!--[/diy]-->
+                            	
+                                <div class="clear"></div>
+                            </dl>
+                        </div>
+                    </li>
+                    <li>
+                    	<div class="deanscfl">
+                        	<dl>
+                            	<!--[diy=deanscflx2]--><div id="deanscflx2" class="area"><div id="frameWzNZ53" class="frame move-span cl frame-1"><div id="frameWzNZ53_left" class="column frame-1-c"><div id="frameWzNZ53_left_temp" class="move-span temp"></div><!--{block/25}--></div></div></div><!--[/diy]-->
+                            	
+                                <div class="clear"></div>
+                            </dl>
+                        </div>
+                    </li>
+                    <li>
+                    	<div class="deanscfl">
+                        	<dl>
+                            	<!--[diy=deanscflx3]--><div id="deanscflx3" class="area"><div id="framen48F7e" class="frame move-span cl frame-1"><div id="framen48F7e_left" class="column frame-1-c"><div id="framen48F7e_left_temp" class="move-span temp"></div><!--{block/26}--></div></div></div><!--[/diy]-->
+                            	
+                                <div class="clear"></div>
+                            </dl>
+                        </div>
+                    </li>
+                </ul>
+            </div>
+        	<script type="text/javascript">
+				jq(".deanpubtop ul li").each(function(s){
+					jq(this).click(function(){
+						jq(this).addClass("cur").siblings().removeClass("cur");
+						jq(".deansucaibox ul li").eq(s).show().siblings().hide();
+						})
+					})
+			</script>
+        </div>
+    </div>
+    <!--ads-->
+    <div class="deanads">
+    	<div class="w1180">
+        	<!--[diy=deanads]--><div id="deanads" class="area"><div id="framef3onxh" class="frame move-span cl frame-1"><div id="framef3onxh_left" class="column frame-1-c"><div id="framef3onxh_left_temp" class="move-span temp"></div><!--{block/27}--></div></div></div><!--[/diy]-->
+        	
+        </div>
+    </div>
+    <!--原创精品-->
+    <div class="deansucai">
+    	<div class="w1180">
+        	<div class="deanpubtop deanpubtop_dm">
+            	<span><a href="#" target="_blank" title="原创精品">原创精品资源</a></span>
+                <ul>
+                	<li class="cur">CG/UI设计</li>
+                    <li>平面/网页设计</li>
+                    <li>原画/手绘</li>
+                    <li>3D模型</li>
+                    <div class="clear"></div>
+                </ul>
+                <div class="clear"></div>
+            </div>
+        	<div class="deansucaibox deansucaibox_dm">
+            	<ul>
+                	<li style="display:block;">
+                    	<div class="deanscfl">
+                        	<dl>
+                            	<!--[diy=deanscflx3x24]--><div id="deanscflx3x24" class="area"><div id="framecNrXla" class="frame move-span cl frame-1"><div id="framecNrXla_left" class="column frame-1-c"><div id="framecNrXla_left_temp" class="move-span temp"></div><!--{block/28}--></div></div></div><!--[/diy]-->
+                                <div class="clear"></div>
+                            </dl>
+                        </div>
+                    </li>
+                    <li>
+                    	<div class="deanscfl">
+                        	<dl>
+                            	<!--[diy=deanscflx3x2]--><div id="deanscflx3x2" class="area"><div id="framemV9AcV" class="frame move-span cl frame-1"><div id="framemV9AcV_left" class="column frame-1-c"><div id="framemV9AcV_left_temp" class="move-span temp"></div><!--{block/29}--></div></div></div><!--[/diy]-->
+                            	
+                                <div class="clear"></div>
+                            </dl>
+                        </div>
+                    </li>
+                    <li>
+                    	<div class="deanscfl">
+                        	<dl>
+                            	<!--[diy=deanscflx3x3]--><div id="deanscflx3x3" class="area"><div id="framer86998" class="frame move-span cl frame-1"><div id="framer86998_left" class="column frame-1-c"><div id="framer86998_left_temp" class="move-span temp"></div><!--{block/30}--></div></div></div><!--[/diy]-->
+                            	
+                                <div class="clear"></div>
+                            </dl>
+                        </div>
+                    </li>
+                    <li>
+                    	<div class="deanscfl">
+                        	<dl>
+                            	<!--[diy=deanscflx3x4]--><div id="deanscflx3x4" class="area"><div id="frameUyvm0m" class="frame move-span cl frame-1"><div id="frameUyvm0m_left" class="column frame-1-c"><div id="frameUyvm0m_left_temp" class="move-span temp"></div><!--{block/31}--></div></div></div><!--[/diy]-->
+                            	
+                                <div class="clear"></div>
+                            </dl>
+                        </div>
+                    </li>
+                </ul>
+            </div>
+        	<script type="text/javascript">
+				jq(".deanpubtop_dm ul li").each(function(s){
+					jq(this).click(function(){
+						jq(this).addClass("cur").siblings().removeClass("cur");
+						jq(".deansucaibox_dm ul li").eq(s).show().siblings().hide();
+						})
+					})
+			</script>
+        </div>
+    </div>
+    <!--ads-->
+    <div class="deanads">
+    	<div class="w1180">
+        	<!--[diy=deanads1]--><div id="deanads1" class="area"><div id="framehiwY5x" class="frame move-span cl frame-1"><div id="framehiwY5x_left" class="column frame-1-c"><div id="framehiwY5x_left_temp" class="move-span temp"></div><!--{block/32}--></div></div></div><!--[/diy]-->
+        	
+        </div>
+    </div>
+    <!--热门设计素材下载-->
+    <div class="deansucai">
+    	<div class="w1180">
+        	<div class="deanpubtop deanpubtop_sc">
+            	<span><a href="#" target="_blank" title="热门设计素材下载">热门设计素材下载</a></span>
+                <ul>
+                	<li class="cur">UI/网页设计</li>
+                    <li>PSD素材</li>
+                    <li>AE模板</li>
+                    <li>动画动漫</li>
+                    <div class="clear"></div>
+                </ul>
+                <div class="clear"></div>
+            </div>
+        	<div class="deansucaibox deansucaibox_sc">
+            	<ul>
+                	<li style="display:block;">
+                    	<div class="deanscfl">
+                        	<dl>
+                            	<!--[diy=deanscflx3x41g]--><div id="deanscflx3x41g" class="area"><div id="framex2FoT3" class="frame move-span cl frame-1"><div id="framex2FoT3_left" class="column frame-1-c"><div id="framex2FoT3_left_temp" class="move-span temp"></div><!--{block/34}--></div></div></div><!--[/diy]-->
+                                <div class="clear"></div>
+                            </dl>
+                        </div>
+                    </li>
+                    <li>
+                    	<div class="deanscfl">
+                        	<dl>
+                            	<!--[diy=deanscflx3x412]--><div id="deanscflx3x412" class="area"><div id="frameIATuQy" class="frame move-span cl frame-1"><div id="frameIATuQy_left" class="column frame-1-c"><div id="frameIATuQy_left_temp" class="move-span temp"></div><!--{block/35}--></div></div></div><!--[/diy]-->
+                            	
+                                <div class="clear"></div>
+                            </dl>
+                        </div>
+                    </li>
+                    <li>
+                    	<div class="deanscfl">
+                        	<dl>
+                            	<!--[diy=deanscflx3x42d]--><div id="deanscflx3x42d" class="area"><div id="frameAd33DN" class="frame move-span cl frame-1"><div id="frameAd33DN_left" class="column frame-1-c"><div id="frameAd33DN_left_temp" class="move-span temp"></div><!--{block/36}--></div></div></div><!--[/diy]-->
+                            	
+                                <div class="clear"></div>
+                            </dl>
+                        </div>
+                    </li>
+                    <li>
+                    	<div class="deanscfl">
+                        	<dl>
+                            	<!--[diy=deanscflx3x44d]--><div id="deanscflx3x44d" class="area"><div id="framevh5o8N" class="frame move-span cl frame-1"><div id="framevh5o8N_left" class="column frame-1-c"><div id="framevh5o8N_left_temp" class="move-span temp"></div><!--{block/33}--></div></div></div><!--[/diy]-->
+                            	
+                                <div class="clear"></div>
+                            </dl>
+                        </div>
+                    </li>
+                </ul>
+            </div>
+        	<script type="text/javascript">
+				jq(".deanpubtop_sc ul li").each(function(s){
+					jq(this).click(function(){
+						jq(this).addClass("cur").siblings().removeClass("cur");
+						jq(".deansucaibox_sc ul li").eq(s).show().siblings().hide();
+						})
+					})
+			</script>
+        </div>
+    </div>
+    <!--ads-->
+    <div class="deanads">
+    	<div class="w1180">
+        	<!--[diy=deanscflx3x44sd]--><div id="deanscflx3x44sd" class="area"><div id="frameWiN11R" class="frame move-span cl frame-1"><div id="frameWiN11R_left" class="column frame-1-c"><div id="frameWiN11R_left_temp" class="move-span temp"></div><!--{block/37}--></div></div></div><!--[/diy]-->
+        	
+        </div>
+    </div>
+    <!--资讯-->
+    <div class="deansucai">
+    	<div class="w1180">
+            <div class="deanbankl">
+            	<div class="deanpubtop">
+                    <span><a href="#" target="_blank" title="推荐文章阅读">推荐文章阅读</a></span>
+                    <a href="#" class="deantxtmore">更多文章</a>
+                    <div class="clear"></div>
+                </div>
+                <div class="deanwenzbx">
+                	<ul>
+                    	<!--[diy=deanwenzbx]--><div id="deanwenzbx" class="area"><div id="framehaqMae" class="frame move-span cl frame-1"><div id="framehaqMae_left" class="column frame-1-c"><div id="framehaqMae_left_temp" class="move-span temp"></div><!--{block/47}--></div></div></div><!--[/diy]-->
+                    	
+                        <div class="clear"></div>
+                    </ul>
+                </div>
+            </div>
+            <div class="deanbankr">
+            	<!--关注-->
+                <div class="deanguanzhu">
+                	<!--[diy=deanguanzhu]--><div id="deanguanzhu" class="area"><div id="framee8V5PB" class="frame move-span cl frame-1"><div id="framee8V5PB_left" class="column frame-1-c"><div id="framee8V5PB_left_temp" class="move-span temp"></div><!--{block/48}--></div></div></div><!--[/diy]-->
+                    
+                </div>
+                <!--会员-->
+                <div class="deanmembers">
+                    <div class="deanpubtop">
+                        <span><a href="#" target="_blank" title="贡献会员榜">贡献会员榜</a></span>
+                        <em></em>
+                        <div class="clear"></div>
+                    </div>
+                    <div class="deanmemsbx">
+                    	<ul>
+                        	<!--[diy=deanmemsbx]--><div id="deanmemsbx" class="area"><div id="frameQg145Y" class="frame move-span cl frame-1"><div id="frameQg145Y_left" class="column frame-1-c"><div id="frameQg145Y_left_temp" class="move-span temp"></div><!--{block/49}--></div></div></div><!--[/diy]-->
+                        	
+                            <div class="clear"></div>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+            <div class="clear"></div>
+        </div>
+    </div>
+    <!--ads-->
+    <div class="deanads">
+    	<div class="w1180">
+        	<!--[diy=deanmemsbx3]--><div id="deanmemsbx3" class="area"><div id="frameVBacHD" class="frame move-span cl frame-1"><div id="frameVBacHD_left" class="column frame-1-c"><div id="frameVBacHD_left_temp" class="move-span temp"></div><!--{block/50}--></div></div></div><!--[/diy]-->
+        	
+        	
+        </div>
+    </div>
+</div>
+
+
+<!--{template common/footer}-->
+
